@@ -1,4 +1,4 @@
-# Dictionaries
+# Enumeration
 
 ## Learning Goals
 
